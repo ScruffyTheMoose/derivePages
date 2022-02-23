@@ -1,15 +1,27 @@
 h1 {
     border-style: double;
     text-align: center;
-    background-color: blueviolet;
+    background-color: #7caedf;
     margin-top: 10%;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
-    background-color: aqua;
+    background-color: #3a74b3;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 25%;
+    display: block;
+    margin: auto;
+}
+
+a {
     text-align: center;
 }
