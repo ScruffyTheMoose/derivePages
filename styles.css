@@ -25,3 +25,11 @@ img {
 a {
     text-align: center;
 }
+
+.center {
+    text-align: center;
+}
+
+.hidden {
+    color: #7caedf;
+}
